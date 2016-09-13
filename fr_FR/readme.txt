@@ -1,5 +1,5 @@
 === ajax-dropdowns ===
-Version : 1473772228
+Version : 1473783504
 Locale : fr_FR
 Last update : 2016-06-20 10:43:56
 Last commiter : fge
